@@ -1,5 +1,5 @@
 ### test_app.sh - 2015 - poncy ###
-version="1.2.0-b"
+version="2.0.0"
 build_hour="16:34"
 
 echo "Build ${build_hour}"
